@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listArray">
+        <item >Blue</item>
+        <item >Cyan</item>
+        <item >Dark Gray</item>
+        <item >Gray</item>
+        <item >Light Gray</item>
+        <item >Green</item>
+        <item >Magenta</item>
+        <item >Red</item>
+        <item >White</item>
+        <item >Yellow</item>
+    </string-array>
+    <string-array name="listValues">
+        <item >BLUE</item>
+        <item >CYAN</item>
+        <item >DARKGRAY</item>
+        <item >GRAY</item>
+        <item >LIGHTGRAY</item>
+        <item >GREEN</item>
+        <item >MAGENTA</item>
+        <item >RED</item>
+        <item >WHITE</item>
+        <item >YELLOW</item>
+    </string-array>
+    <string-array name="listSpeed">
+        <item >Very Slow</item>
+        <item >Slow</item>
+        <item >Medium</item>
+        <item >Fast</item>
+        <item >Very Fast</item>
+    </string-array>
+    <string-array name="listSpeedValues">
+        <item >500</item>
+        <item >300</item>
+        <item >100</item>
+        <item >50</item>
+        <item >25</item>
+    </string-array>
+</resources>
